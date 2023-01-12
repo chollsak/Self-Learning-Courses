@@ -1,6 +1,6 @@
 ﻿# Self-Learning-Courses
  
- ✅ = Done
+ ✅ = Done<br>
  🏃🏻‍♂️ = Currently on it
  <hr>
  
