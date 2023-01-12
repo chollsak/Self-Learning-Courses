@@ -1,6 +1,6 @@
 # FastAPI - A Python Framework | Full Course
 Instructor: https://github.com/bitfumes <br>
-Github Course: https://github.com/bitfumes <br>
+Github Course: https://github.com/bitfumes/fastapi-course <br>
 Youtube: https://www.youtube.com/watch?v=7t2alSnE2-I
 <hr>
 <img src = "https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width = "300px"><br>
