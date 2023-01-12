@@ -1,7 +1,7 @@
 ﻿# Self-Learning-Courses
  
  ✅ = Done | 🏃🏻‍♂️ = Currently on it
- 
+ <hr>
  
  ***Courses List***
 - [✅] Basic Python by Markpruet (Since 2021)
