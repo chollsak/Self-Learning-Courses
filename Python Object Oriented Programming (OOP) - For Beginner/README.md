@@ -3,6 +3,7 @@
 Instructor: https://github.com/techwithtim <br>
 Youtube: https://www.youtube.com/watch?v=JeznW_7DlB0 
 <hr>
+
 - [x] Intro
 - [ ] What is an Object
 - [ ] Methods
