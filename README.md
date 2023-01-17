@@ -1,7 +1,7 @@
 ﻿# Self-Learning-Courses
 
 <b>Try to be better! 🧗‍♂️</b><br>
-<img src = "https://media.tenor.com/onACeTOyiG0AAAAC/wall-climbing-jump.gif" width = "300px">
+<img src = "https://media.tenor.com/Og17a68bSrIAAAAM/best-fails-rock-climbing.gif" width = "300px">
 
  ✅ = Done<br>
  🏃🏻‍♂️ = Currently on it
