@@ -32,5 +32,3 @@ elif member == isMember[1]:
 print("Total %.2f" %(total))
 print("Discount %.2f" %(discount))
 print("Amount %.2f" %(amount))
-
-
