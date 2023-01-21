@@ -42,6 +42,8 @@ elif len(card) == 3:
 
     else:
         card_name = "Invalid card symbol"
+else:
+    card_name = "Invalid card symbol"      
 
 
 print(card_name)                      
