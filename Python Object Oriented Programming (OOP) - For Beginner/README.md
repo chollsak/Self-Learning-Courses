@@ -17,17 +17,17 @@ The key takeaway is that objects are at the center of object-oriented programmin
 ***Course Contents***
 
 - [x] Intro
-- [ ] What is an Object
-- [ ] Methods
-- [ ] Creating a Class
-- [ ] Defining Methods
-- [ ] Anit Method
-- [ ] Attributes
-- [ ] Name and Age
-- [ ] Modifying Attributes
-- [ ] Multiple Classes
-- [ ] Adding Students
-- [ ] Inheritance
-- [ ] Create another class
-- [ ] Class attributes
-- [ ] Static Methods
+- [x] What is an Object
+- [x] Methods
+- [x] Creating a Class
+- [x] Defining Methods
+- [x] Anit Method
+- [x] Attributes
+- [x] Name and Age
+- [x] Modifying Attributes
+- [x] Multiple Classes
+- [x] Adding Students
+- [x] Inheritance
+- [x] Create another class
+- [x] Class attributes
+- [x] Static Methods
