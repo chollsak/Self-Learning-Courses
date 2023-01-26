@@ -13,8 +13,9 @@ while i is alive:
 ```    
  
  ***Courses List***
-- [x] Basic Python (Since 2021)
 - [ ] ***Udemy*** 100 Days of Code: The Complete Python Pro Bootcamp for 2023 (Since 2023)
 - [ ] ***Udemy*** The Complete 2023 Web Development Bootcamp (Since 2022)
-- [ ] ***Tech With Tim*** Python Object Oriented Programming (OOP) - For Beginne (Since 2023)
+- [x] ***Tech With Tim*** Python Object Oriented Programming (OOP) - For Beginne (Since 2023)
 - [ ] ***Bitfumes*** FastAPI - A Python Framework | Full Course (Since 2023)
+- [ ] ***React JS Tutorial*** React JS Tutorial – Build a Weather App With Cities Autocomplete (Since 2023)
+- [ ] ***freeCodeCamp.org*** The Complete Flutter Development Bootcamp with Dart (Since 2023)

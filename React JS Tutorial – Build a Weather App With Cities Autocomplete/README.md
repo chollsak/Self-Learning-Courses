@@ -1,4 +1,5 @@
 In this React project tutorial, you will learn to build a weather application using the OpenWeatherMap API and GeoDB API with places autocomplete. 
+<img src = "https://design-style-guide.freecodecamp.org/downloads/fcc_primary_large.jpg" width = "800px">
 
 <img src = "https://scontent.fbkk7-3.fna.fbcdn.net/v/t1.15752-9/327168972_1157775084859367_6693741163448306181_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHwgIjY-_IPdvjo5E6KwSSn_gLxAlcbDjb-AvECVxsONiyX4K68JLPKT1-hYFWGzzBRgqL2iPHHdsjE0iQNVw9A&_nc_ohc=OhaM0zF-p9UAX_u3WSl&_nc_ht=scontent.fbkk7-3.fna&oh=03_AdS1JeND_6cBpBAGjJgd55T4jg0E4sc9_ZlYyII511reQQ&oe=63F93B9B" width = "800px">
 
