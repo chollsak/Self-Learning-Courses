@@ -9,3 +9,5 @@ def check_range(x):
 
 input_number = int(input())
 check_range(input_number)
+
+
