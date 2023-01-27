@@ -1,3 +1,5 @@
+#Treasure Island
+
 def check_Direction(w):
     if w != "left":
         return "Fall into a hole. Game Over."
