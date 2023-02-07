@@ -15,8 +15,4 @@ class Employee:
         print("Position: %s\n" %(self.__position))
 
 obj1 = Employee("Paul", 100000, "Senior Programmer")
-obj1.__salary = 80000 #can not change
-obj1._name = "Mark" #able to change
-obj1._showData()
-
-
+obj2 = Employee("Jack", 80000, "Junior Programmer")
