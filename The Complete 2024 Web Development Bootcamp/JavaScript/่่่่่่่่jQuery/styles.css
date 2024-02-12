@@ -1,0 +1,30 @@
+body{
+    background-color: red;
+}
+
+.big-title{
+    font-size: 10rem;
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.margin-50{
+    margin: 50px;
+}
+
+.h1{
+    background-color: grey;
+    width: fit-content;
+    border-radius: 10px;
+    /* smooth transition and hover*/
+    transition: 0.5s;
+    padding: 10px;
+
+}
+
+.h1:hover{ /* hover effect and trasition out */
+    background-color: black;
+    color: white;
+    transition: 0.5s;
+    
+}
