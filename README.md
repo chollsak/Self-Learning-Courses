@@ -13,9 +13,8 @@ while i is alive:
 ```    
  
  ***Courses List***
-- [ ] ***Udemy*** 100 Days of Code: The Complete Python Pro Bootcamp for 2023 (Since 2023)
 - [ ] ***Udemy*** The Complete 2023 Web Development Bootcamp (Since 2022)
-- [x] ***Tech With Tim*** Python Object Oriented Programming (OOP) - For Beginne (Since 2023)
-- [ ] ***Free Code Camp*** C# Tutorial - Full Course for Beginners(Since 2024)
+- [ ] ***Udemy*** The Complete Flutter Development Bootcamp with Dart (Since 2022)
+
 
 
