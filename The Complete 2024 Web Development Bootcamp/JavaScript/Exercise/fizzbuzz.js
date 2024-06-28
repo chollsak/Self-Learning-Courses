@@ -7,7 +7,7 @@ function fizzBuzz() {
     
     if(count % 3 === 0 && count % 5 === 0){
         output.pop();
-        output.push("FizzBuzz") 
+        output.push("FizzBuzz")
     }    
     else if(count % 3 === 0){
         output.pop();
