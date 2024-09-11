@@ -8,7 +8,11 @@ app.get("/", (req, res) => {
     res.send("<h1>Home</h1>");
 })
 
-app.get("/contact",(req,res) => {
+app.get("/ronaldo",(req,res) => {
+    res.send("<h1>Cristiano</h1>");
+})
+
+app.get("/contact", (req,res) => {
     res.send("<h1>Contact</h1>");
 })
 
