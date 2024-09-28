@@ -21,5 +21,6 @@ readFile('./content/first.txt','utf-8', (err,result) => {
             console.log('done with this task')
         })) 
     })
+    
 })
 console.log('starting next task')
